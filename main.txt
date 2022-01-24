@@ -1,7 +1,11 @@
-	A text file for demo
+	This is a text file for demo
 
 	
 	Ready to merge
 
 	
 	Mering starts here
+
+
+Text adding from branch 1
+ending of branch 1.
