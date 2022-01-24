@@ -5,3 +5,9 @@
 
 	
 	Mering starts here
+
+Starting of branch 2
+
+This text came from branch 2
+
+End of branch 2
